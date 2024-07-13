@@ -13,11 +13,8 @@ const BtnToggleTheme = ({ className }) => {
   );
 
   return (
-    <Button
-      className={className + ' btn-toggle'}
-      onClick={toggleTheme}
-    >
-      <ToggleThemeIcon style={{ fontSize: '23px' }} />
+    <Button className={className + " btn-toggle"} onClick={toggleTheme}>
+      <ToggleThemeIcon style={{ fontSize: "23px" }}/>
     </Button>
   );
 };

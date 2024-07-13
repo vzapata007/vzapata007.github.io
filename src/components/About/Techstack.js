@@ -1,13 +1,13 @@
-import React from 'react';
-import { Col, Row } from 'react-bootstrap';
-import { CgCPlusPlus } from 'react-icons/cg';
-import { AiOutlineDotNet } from 'react-icons/ai';
+import React from "react";
+import { Col, Row } from "react-bootstrap";
+import { CgCPlusPlus } from "react-icons/cg";
+import { AiOutlineDotNet } from "react-icons/ai";
 import {
   SiDotnet,
   SiMicrosoftsqlserver,
   SiNodedotjs,
   SiNodered,
-} from 'react-icons/si';
+} from "react-icons/si";
 import {
   DiJavascript1,
   DiReact,
@@ -20,7 +20,7 @@ import {
   DiMsqlServer,
   DiMysql,
   DiGithub,
-} from 'react-icons/di';
+} from "react-icons/di";
 import {
   SiRedis,
   SiFirebase,
@@ -28,12 +28,12 @@ import {
   SiSolidity,
   SiPostgresql,
   SiCsharp,
-} from 'react-icons/si';
-import { TbBrandCSharp, TbBrandGolang, TbSql } from 'react-icons/tb';
+} from "react-icons/si";
+import { TbBrandCSharp, TbBrandGolang, TbSql } from "react-icons/tb";
 
 function Techstack() {
   return (
-    <Row style={{ justifyContent: 'center', paddingBottom: '50px' }}>
+    <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
         <SiCsharp />
       </Col>

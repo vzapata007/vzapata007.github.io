@@ -1,7 +1,6 @@
-import React from 'react';
-import GitHubCalendar from 'react-github-calendar';
-import { Row } from 'react-bootstrap';
-import { useThemeContext } from '../../hooks/themeHook';
+import React from "react";
+import GitHubCalendar from "react-github-calendar";
+import { Row } from "react-bootstrap";
 
 function Github() {
   const { dark } = useThemeContext();
@@ -30,12 +29,9 @@ function Github() {
       };
 
   return (
-    <Row style={{ justifyContent: 'center', paddingBottom: '40px' }}>
-      <h1
-        className="project-heading"
-        style={{ paddingBottom: '20px' }}
-      >
-        <strong className="green">Github</strong> Activity
+    <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+      <h1 className="project-heading" style={{ paddingBottom: "20px" }}>
+        Days I <strong className="purple">Code</strong>
       </h1>
 
       <GitHubCalendar

@@ -1,6 +1,6 @@
-import React from 'react';
-import { Col, Row } from 'react-bootstrap';
-import { DiGithub, DiJira, DiMysql } from 'react-icons/di';
+import React from "react";
+import { Col, Row } from "react-bootstrap";
+import { DiGithub, DiJira, DiMysql } from "react-icons/di";
 import {
   SiVisualstudiocode,
   SiPostman,
@@ -11,11 +11,11 @@ import {
   SiAzuredevops,
   SiJira,
   SiMicrosoftsqlserver,
-} from 'react-icons/si';
+} from "react-icons/si";
 
 function Toolstack() {
   return (
-    <Row style={{ justifyContent: 'center', paddingBottom: '50px' }}>
+    <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
         <SiWindows11 />
       </Col>

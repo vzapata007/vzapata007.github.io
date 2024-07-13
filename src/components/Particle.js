@@ -1,5 +1,5 @@
-import ReactParticles from 'react-tsparticles';
-import { useThemeContext } from '../hooks/themeHook';
+import ReactParticles from "react-tsparticles";
+import { useThemeContext } from "../hooks/themeHook";
 
 const LIGHT_THEME_PARTICLES = {
   number: {
@@ -10,7 +10,7 @@ const LIGHT_THEME_PARTICLES = {
     },
   },
   color: {
-    value: '#0e4429',
+    value: "#0e4429",
   },
   opacity: {
     value: 0.6, // Reduced opacity
@@ -34,7 +34,7 @@ const LIGHT_THEME_PARTICLES = {
   },
   links: {
     enable: true,
-    color: '#0e4429',
+    color: "#0e4429",
     distance: 50,
     width: 1,
     consent: false,
@@ -42,10 +42,10 @@ const LIGHT_THEME_PARTICLES = {
   move: {
     enable: true,
     speed: 1,
-    direction: 'none',
+    direction: "none",
     random: false,
     straight: false,
-    out_mode: 'bounce', // Keep particles within view
+    out_mode: "bounce", // Keep particles within view
     bounce: true,
     attract: {
       enable: false,
@@ -65,7 +65,7 @@ export const DARK_THEME_PARTICLES = {
   },
   move: {
     enable: true,
-    direction: 'right',
+    direction: "right",
     speed: 0.05,
   },
   size: {
@@ -83,9 +83,7 @@ export const DARK_THEME_PARTICLES = {
 function Particle() {
   const { dark } = useThemeContext();
 
-  const particles = dark
-    ? DARK_THEME_PARTICLES
-    : LIGHT_THEME_PARTICLES;
+  const particles = dark ? DARK_THEME_PARTICLES : LIGHT_THEME_PARTICLES;
 
   return (
     <ReactParticles
@@ -96,7 +94,7 @@ function Particle() {
           events: {
             onclick: {
               enable: true,
-              mode: 'push',
+              mode: "push",
             },
           },
           modes: {

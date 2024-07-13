@@ -1,9 +1,9 @@
-import React from 'react';
-import { Container, Row, Col } from 'react-bootstrap';
-import homeLogo from '../../assets/home-main.svg';
-import Particle from '../Particle';
-import Home2 from './Home2';
-import Type from './Type';
+import React from "react";
+import { Container, Row, Col } from "react-bootstrap";
+import homeLogo from "../../assets/home-main.svg";
+import Particle from "../Particle";
+import Home2 from "./Home2";
+import Type from "./Type";
 
 function Home() {
   return (
@@ -14,12 +14,8 @@ function Home() {
           <Row>
             <Col md={7} className="home-header">
               <h1 style={{ paddingBottom: 15 }} className="heading">
-                Hi There!{' '}
-                <span
-                  className="wave"
-                  role="img"
-                  aria-labelledby="wave"
-                >
+                Hi There!{" "}
+                <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻
                 </span>
               </h1>
@@ -29,17 +25,13 @@ function Home() {
                 <strong className="main-name"> Victor Zapata</strong>
               </h1>
 
-              <div style={{ padding: 50, textAlign: 'left' }}>
+              <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />
               </div>
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }}>
-              <img
-                src={homeLogo}
-                alt="home pic"
-                className="img-fluid"
-              />
+              <img src={homeLogo} alt="home pic" className="img-fluid" />
             </Col>
           </Row>
         </Container>
