@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import itau from "../../assets/projects/itau.png";
 import portfolio from "../../assets/projects/portfolio.png";
 import bpm from "../../assets/projects/bpm.png";
-import realais from "../../assets/projects/realais.png"; // Importa la imagen del nuevo proyecto
+import realais from "../../assets/projects/realais.png";
 
 function Projects() {
   return (
@@ -55,7 +55,7 @@ function Projects() {
               imgPath={realais}
               isBlog={true}
               title="RealAis Banco"
-              description="Developed the RealAis investment core system for Banco de Chile at Sonda, automating and optimizing money desk operations."
+              description="RealAis Banco (Sonda). This Windows application was built using .NET technologies including C#, VB.NET, and SQL Server. I focused on adding new functionalities and providing support, automating and optimizing money desk operations."
               ghLink="https://www.sonda.com/nosotros/casos-de-exito/detalle/banco-de-chile-implanta-core-de-inversiones-realais-de-sonda-para-su-mesa-de-dinero"
               //demoLink="https://www.sonda.com/nosotros/casos-de-exito/detalle/banco-de-chile-implanta-core-de-inversiones-realais-de-sonda-para-su-mesa-de-dinero"
             />

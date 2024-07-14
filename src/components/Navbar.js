@@ -3,19 +3,14 @@ import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import { Link } from "react-router-dom";
 import BtnToggleTheme from "./BtnTottleTheme";
-import { Col, Dropdown, Row } from "react-bootstrap";
+import { Col, Row } from "react-bootstrap";
 import { CgFileDocument } from "react-icons/cg";
-import Button from "react-bootstrap/Button";
-import { CgGitFork } from "react-icons/cg";
 
 import {
-  AiFillStar,
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
-
-import { MdLanguage } from "react-icons/md";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);

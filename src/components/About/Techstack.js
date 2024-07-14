@@ -1,35 +1,9 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
-import { AiOutlineDotNet } from "react-icons/ai";
-import {
-  SiDotnet,
-  SiMicrosoftsqlserver,
-  SiNodedotjs,
-  SiNodered,
-} from "react-icons/si";
-import {
-  DiJavascript1,
-  DiReact,
-  DiNodejs,
-  DiMongodb,
-  DiPython,
-  DiGit,
-  DiJava,
-  DiDotnet,
-  DiMsqlServer,
-  DiMysql,
-  DiGithub,
-} from "react-icons/di";
-import {
-  SiRedis,
-  SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
-  SiCsharp,
-} from "react-icons/si";
-import { TbBrandCSharp, TbBrandGolang, TbSql } from "react-icons/tb";
+import { SiDotnet } from "react-icons/si";
+import { DiJavascript1, DiReact, DiNodejs } from "react-icons/di";
+import { SiCsharp } from "react-icons/si";
+import { TbSql } from "react-icons/tb";
 
 function Techstack() {
   return (

@@ -1,12 +1,10 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { DiGithub, DiJira, DiMysql } from "react-icons/di";
+import { DiGithub, DiMysql } from "react-icons/di";
 import {
   SiVisualstudiocode,
   SiPostman,
   SiSlack,
-  SiVercel,
-  SiMacos,
   SiWindows11,
   SiAzuredevops,
   SiJira,
