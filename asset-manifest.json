@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.dfcae848.css",
-    "main.js": "/static/js/main.09c2de33.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "main.css": "/static/css/main.ac544239.css",
+    "main.js": "/static/js/main.c0189575.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
     "static/media/CV_VictorZapata.pdf": "/static/media/CV_VictorZapata.8d2d1a3ad189c3cecb60.pdf",
+    "static/media/realais.png": "/static/media/realais.66ba2850f512f928f78c.png",
     "static/media/itau.png": "/static/media/itau.e4173c191d5e6c144864.png",
     "static/media/portfolio.png": "/static/media/portfolio.0e783861294ee4068ef3.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/bpm.png": "/static/media/bpm.951b7ebf83a8ee4f3321.png",
-    "static/media/realais.png": "/static/media/realais.54b3da905ef24a46792d.png",
-    "static/media/avatar.svg": "/static/media/avatar.94ba45fc1c584605f2f740ce46f67779.svg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.dfcae848.css.map": "/static/css/main.dfcae848.css.map",
-    "main.09c2de33.js.map": "/static/js/main.09c2de33.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.ac544239.css.map": "/static/css/main.ac544239.css.map",
+    "main.c0189575.js.map": "/static/js/main.c0189575.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfcae848.css",
-    "static/js/main.09c2de33.js"
+    "static/css/main.ac544239.css",
+    "static/js/main.c0189575.js"
   ]
 }
