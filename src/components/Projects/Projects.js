@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import itau from "../../assets/projects/itau.png";
 import portfolio from "../../assets/projects/portfolio.png";
 import bpm from "../../assets/projects/bpm.png";
+import realais from "../../assets/projects/realais.png"; // Importa la imagen del nuevo proyecto
 
 function Projects() {
   return (
@@ -46,6 +47,17 @@ function Projects() {
               description="Personal portfolio using ReactJS to showcase my projects, skills, and professional experience. The site features a modern, user-friendly design with sections for my resume, skills, and a collection of my work. It ensures a seamless experience across all devices."
               ghLink="https://github.com/vzapata007/vzapata007.github.io"
               // Removed demoLink as it's already the portfolio we're viewing
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={realais}
+              isBlog={true}
+              title="RealAis Banco"
+              description="Developed the RealAis investment core system for Banco de Chile at Sonda, automating and optimizing money desk operations."
+              ghLink="https://www.sonda.com/nosotros/casos-de-exito/detalle/banco-de-chile-implanta-core-de-inversiones-realais-de-sonda-para-su-mesa-de-dinero"
+              //demoLink="https://www.sonda.com/nosotros/casos-de-exito/detalle/banco-de-chile-implanta-core-de-inversiones-realais-de-sonda-para-su-mesa-de-dinero"
             />
           </Col>
         </Row>
