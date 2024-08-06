@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/vzapata007.github.io/static/css/main.63d247f7.css",
-    "main.js": "/vzapata007.github.io/static/js/main.13792c98.js",
-    "static/js/787.7da95b79.chunk.js": "/vzapata007.github.io/static/js/787.7da95b79.chunk.js",
-    "static/media/CV_VictorZapata_SoftwareEngineer.pdf": "/vzapata007.github.io/static/media/CV_VictorZapata_SoftwareEngineer.35a56bb8862ba40648ce.pdf",
-    "static/media/realais.png": "/vzapata007.github.io/static/media/realais.66ba2850f512f928f78c.png",
-    "static/media/itau.png": "/vzapata007.github.io/static/media/itau.e4173c191d5e6c144864.png",
-    "static/media/portfolio.png": "/vzapata007.github.io/static/media/portfolio.0e783861294ee4068ef3.png",
-    "static/media/home-main.svg": "/vzapata007.github.io/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/vzapata007.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/bpm.png": "/vzapata007.github.io/static/media/bpm.951b7ebf83a8ee4f3321.png",
-    "static/media/pre.svg": "/vzapata007.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/vzapata007.github.io/index.html",
-    "main.63d247f7.css.map": "/vzapata007.github.io/static/css/main.63d247f7.css.map",
-    "main.13792c98.js.map": "/vzapata007.github.io/static/js/main.13792c98.js.map",
-    "787.7da95b79.chunk.js.map": "/vzapata007.github.io/static/js/787.7da95b79.chunk.js.map"
+    "main.css": "/https://vzapata007.github.io/static/css/main.363202aa.css",
+    "main.js": "/https://vzapata007.github.io/static/js/main.59c2c7bf.js",
+    "static/js/787.7da95b79.chunk.js": "/https://vzapata007.github.io/static/js/787.7da95b79.chunk.js",
+    "static/media/CV_VictorZapata_SoftwareEngineer.pdf": "/https://vzapata007.github.io/static/media/CV_VictorZapata_SoftwareEngineer.35a56bb8862ba40648ce.pdf",
+    "static/media/realais.png": "/https://vzapata007.github.io/static/media/realais.66ba2850f512f928f78c.png",
+    "static/media/itau.png": "/https://vzapata007.github.io/static/media/itau.e4173c191d5e6c144864.png",
+    "static/media/portfolio.png": "/https://vzapata007.github.io/static/media/portfolio.0e783861294ee4068ef3.png",
+    "static/media/home-main.svg": "/https://vzapata007.github.io/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/https://vzapata007.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/bpm.png": "/https://vzapata007.github.io/static/media/bpm.951b7ebf83a8ee4f3321.png",
+    "static/media/pre.svg": "/https://vzapata007.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/https://vzapata007.github.io/index.html",
+    "main.363202aa.css.map": "/https://vzapata007.github.io/static/css/main.363202aa.css.map",
+    "main.59c2c7bf.js.map": "/https://vzapata007.github.io/static/js/main.59c2c7bf.js.map",
+    "787.7da95b79.chunk.js.map": "/https://vzapata007.github.io/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63d247f7.css",
-    "static/js/main.13792c98.js"
+    "static/css/main.363202aa.css",
+    "static/js/main.59c2c7bf.js"
   ]
 }
