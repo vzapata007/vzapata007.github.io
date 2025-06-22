@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cde73f72.css",
+    "main.js": "/static/js/main.d69e8fa9.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/CV_VictorZapata_SoftwareEngineer.pdf": "/static/media/CV_VictorZapata_SoftwareEngineer.35a56bb8862ba40648ce.pdf",
+    "static/media/realais.png": "/static/media/realais.66ba2850f512f928f78c.png",
+    "static/media/itau.png": "/static/media/itau.e4173c191d5e6c144864.png",
+    "static/media/portfolio.png": "/static/media/portfolio.0e783861294ee4068ef3.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/bpm.png": "/static/media/bpm.951b7ebf83a8ee4f3321.png",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.cde73f72.css.map": "/static/css/main.cde73f72.css.map",
+    "main.d69e8fa9.js.map": "/static/js/main.d69e8fa9.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde73f72.css",
+    "static/js/main.d69e8fa9.js"
+  ]
+}
